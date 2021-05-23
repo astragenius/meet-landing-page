@@ -145,6 +145,11 @@ p {
     width: 54rem;
 }
 
+.hero-mobile-img {
+
+    display: none;
+}
+
 .container_1_content h1 {
 
     margin-bottom: 1rem;
@@ -465,6 +470,11 @@ span {
         order: 2;
         display: none;
    
+    }
+
+    .hero-mobile-img {
+
+        display: block;
     }
 
     .container_1_content {
